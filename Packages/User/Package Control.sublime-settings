@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"ApplySyntax",
+		"ChangeQuotes",
+		"ERB Autocomplete",
+		"Expand Selection to Quotes",
+		"IndentGuides",
+		"Package Control",
+		"SublimeERB",
+		"Toggle Symbol to String"
+	]
+}
